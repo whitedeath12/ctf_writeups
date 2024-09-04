@@ -1,0 +1,11 @@
+w1gl3_w1gl3_w1gl3:
+how I did it:
+I went to osin website and clicked on wireless network and gave the mac address mentioned in the challenge description and got the flag.
+what I learnt:
+I learnt how to track some ones address using mac id.
+
+gh0st_h0rs3:
+how I did it:
+first I searched for rpm arbitrary id in internet and found it to be 200.
+by using grep function I found all the rpm arbitrary id with 200.
+I found it to be in hexa dump form so I turned it into ascii using hexa to ascii converter and we found the flag.
