@@ -1,0 +1,5 @@
+COMPOUND_V
+how i did it:
+ran the file command and it asked for password.so i decompiled it and found a string of random characters
+with decodeurl and decoding it i got an url
+after opening it i found the billy butcher viewed the page source and found the flag.
