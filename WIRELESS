@@ -1,0 +1,9 @@
+whats_up_DoH: 
+HOW  I DID IT:
+I opened the attached file in the wireshark. And searched
+the "idk567' in the find tool. I found a packet that contain a link to idk567. where  I fould a image of 'spongebob_squarepants'which 
+is a flag for this task.
+
+is_it_secure_tho??
+how I did it:
+I opened the pcap file in the wireshark software . I have sorted the packets using keyword 'http' and found the flag.
