@@ -1,0 +1,14 @@
+F1nd_th3_culpr1t:
+how I did it:
+after un zipping the zip file found a image and i searched it using google lense i found about natanz nuclear plant incident in iran.
+i surfed about it and found out about the virus and it is the culprit of the tragedy.
+
+ladder_logic:
+how i did it:
+i found the values of wxyz using plc ladder logic.
+what i learned:
+learnrd about plc ladder logic
+
+int3rc3pt:
+how i did it:
+They gave a pcap file , I opened it in the wireshark software . I have sorted the packets and found the flag which was in bay64 form.i converted it and found the flag.  
